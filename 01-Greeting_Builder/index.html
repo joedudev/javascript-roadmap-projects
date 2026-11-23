@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Greeting Builder</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<main>
+			<h1>Greeting Builder</h1>
+			<form action="javascript:void(0);">
+				<div class="names">
+					<input type="text" name="firstName" placeholder="First Name" />
+					<input type="text" name="lastName" placeholder="Last Name" />
+				</div>
+				<select name="timeOfDay" id="timeOfTheDay">
+					<option value="morning">Morning</option>
+					<option value="afternoon">Afternoon</option>
+					<option value="evening">Evening</option>
+				</select>
+				<button type="submit">Greet</button>
+			</form>
+			<p id="greeting"></p>
+		</main>
+		<script src="script.js"></script>
+	</body>
+</html>
