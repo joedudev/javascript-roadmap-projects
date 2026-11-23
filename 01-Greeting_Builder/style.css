@@ -18,6 +18,40 @@ main {
 	border: 5px blue solid;
 	height: 100%;
 	border-radius: 20px;
-	padding: 15px;
+	padding: 30px;
 	text-align: center;
+}
+main h1 {
+	margin: 20px 0;
+}
+form {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	justify-content: space-between;
+	max-width: 80%;
+	height: 50%;
+	margin: 0 auto;
+}
+.names {
+	display: flex;
+	gap: 10px;
+}
+.names input {
+	flex: 1;
+	padding: 3px 5px;
+}
+#timeOfTheDay {
+	padding: 3px 5px;
+}
+form button {
+	padding: 5px 10px;
+	cursor: pointer;
+	background-color: blue;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	font-size: 1rem;
+	font-weight: bold;
+	margin-block-end: 15px;
 }

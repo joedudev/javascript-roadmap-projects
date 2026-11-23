@@ -1,3 +1,13 @@
+const form = document.querySelector("form");
+form.addEventListener("submit", (event) => {
+	const firstName = form.elements.firstName.value;
+	const lastName = form.elements.lastName.value;
+	const timeOfDay = form.elements.timeOfDay.value;
+	const greeting = createGreeting(firstName, lastName, timeOfDay);
+	insertGreeting(greeting);
+});
+const greetingElement = document.getElementById("greeting");
+
 function formateName(firstName, lastName) {
 	return firstName + " " + lastName;
 }
@@ -20,6 +30,6 @@ function createGreeting(firstName, lastName, timeOfDay) {
 	return greeting + " " + fullName + "!";
 }
 
-console.log(createGreeting("Ava", "Stone", "morning"));
-console.log(createGreeting("Noah", "Kim", "evening"));
-console.log(createGreeting("Mina", "Patel", "afternoon"));
+function insertGreeting(greeting) {
+	greetingElement.textContent = greeting;
+}
