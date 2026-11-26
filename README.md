@@ -26,7 +26,7 @@ js-roadmap-projects/
 
 ### 🌑 Beginner
 
-- [x] [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)
+- [x] [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder) - [Watch Live Project](https://joedu-js-projects.netlify.app/01-greeting_builder/)
 - [ ] [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter)
 - [ ] [Number Checker](https://roadmap.sh/projects/js-number-checker)
 - [ ] [String Formatter](https://roadmap.sh/projects/js-string-formatter)
