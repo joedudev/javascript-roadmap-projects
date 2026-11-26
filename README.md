@@ -28,8 +28,8 @@ js-roadmap-projects/
 
 - [x] [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder) - [Watch Live Project](https://joedu-js-projects.netlify.app/01-greeting_builder/)
 - [x] [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter) - [Upvote at Roadmapsh](https://roadmap.sh/projects/js-temperature-converter/solutions?u=695edd79b5796bd00ce0289a)
-- [x] [Number Checker](https://roadmap.sh/projects/js-number-checker)
-- [ ] [String Formatter](https://roadmap.sh/projects/js-string-formatter)
+- [x] [Number Checker](https://roadmap.sh/projects/js-number-checker) - [Upvote at Roadmap](https://roadmap.sh/projects/js-number-checker/solutions?u=695edd79b5796bd00ce0289a)
+- [x] [String Formatter](https://roadmap.sh/projects/js-string-formatter)
 - [ ] [Price Calculator](https://roadmap.sh/projects/js-price-calculator)
 - [ ] [Cart Total Calculator](https://roadmap.sh/projects/js-cart-total-calculator)
 - [ ] [Grade Report Generator](https://roadmap.sh/projects/js-grade-report-generator)
