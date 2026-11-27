@@ -27,10 +27,10 @@ js-roadmap-projects/
 ### 🌑 Beginner
 
 - [x] [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder) - [Watch Live Project](https://joedu-js-projects.netlify.app/01-greeting_builder/)
-- [x] [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter) - [Upvote at Roadmapsh](https://roadmap.sh/projects/js-temperature-converter/solutions?u=695edd79b5796bd00ce0289a)
-- [x] [Number Checker](https://roadmap.sh/projects/js-number-checker) - [Upvote at Roadmap](https://roadmap.sh/projects/js-number-checker/solutions?u=695edd79b5796bd00ce0289a)
-- [x] [String Formatter](https://roadmap.sh/projects/js-string-formatter)
-- [ ] [Price Calculator](https://roadmap.sh/projects/js-price-calculator)
+- [x] [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter) - [Upvote on Roadmapsh](https://roadmap.sh/projects/js-temperature-converter/solutions?u=695edd79b5796bd00ce0289a)
+- [x] [Number Checker](https://roadmap.sh/projects/js-number-checker) - [Upvote on Roadmap](https://roadmap.sh/projects/js-number-checker/solutions?u=695edd79b5796bd00ce0289a)
+- [x] [String Formatter](https://roadmap.sh/projects/js-string-formatter) - [Upvote on Roadmap](https://roadmap.sh/projects/js-string-formatter/solutions?u=695edd79b5796bd00ce0289a)
+- [x] [Price Calculator](https://roadmap.sh/projects/js-price-calculator)
 - [ ] [Cart Total Calculator](https://roadmap.sh/projects/js-cart-total-calculator)
 - [ ] [Grade Report Generator](https://roadmap.sh/projects/js-grade-report-generator)
 - [ ] [Task List Utilities](https://roadmap.sh/projects/js-task-list-utilities)
